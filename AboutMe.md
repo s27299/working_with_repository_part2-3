@@ -2,6 +2,7 @@
 Jestem studentem PJATK, i uwielbiam pracę z branchami
 
 
+
 ## hobby
 - Motoryzacja
 - Awionika 
